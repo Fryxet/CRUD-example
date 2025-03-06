@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Farfels\\Desktop\\21.04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86C29FDA-4455-4BFE-A2C1-F3A42A83A990}|CompanyApp\\CompanyApp.csproj|c:\\users\\farfels\\desktop\\21.04\\companyapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{86C29FDA-4455-4BFE-A2C1-F3A42A83A990}|CompanyApp\\CompanyApp.csproj|solutionrelative:companyapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86C29FDA-4455-4BFE-A2C1-F3A42A83A990}|CompanyApp\\CompanyApp.csproj|c:\\users\\farfels\\desktop\\21.04\\companyapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86C29FDA-4455-4BFE-A2C1-F3A42A83A990}|CompanyApp\\CompanyApp.csproj|solutionrelative:companyapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86C29FDA-4455-4BFE-A2C1-F3A42A83A990}|CompanyApp\\CompanyApp.csproj|c:\\users\\farfels\\desktop\\21.04\\companyapp\\companycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86C29FDA-4455-4BFE-A2C1-F3A42A83A990}|CompanyApp\\CompanyApp.csproj|solutionrelative:companyapp\\companycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CompanyContext.cs",
+              "DocumentMoniker": "C:\\Users\\Farfels\\Desktop\\21.04\\CompanyApp\\CompanyContext.cs",
+              "RelativeDocumentMoniker": "CompanyApp\\CompanyContext.cs",
+              "ToolTip": "C:\\Users\\Farfels\\Desktop\\21.04\\CompanyApp\\CompanyContext.cs",
+              "RelativeToolTip": "CompanyApp\\CompanyContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T08:54:52.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Farfels\\Desktop\\21.04\\CompanyApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "CompanyApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Farfels\\Desktop\\21.04\\CompanyApp\\MainWindow.xaml",
+              "RelativeToolTip": "CompanyApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-06T08:51:03.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Farfels\\Desktop\\21.04\\CompanyApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CompanyApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Farfels\\Desktop\\21.04\\CompanyApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "CompanyApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T08:51:02.849Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
